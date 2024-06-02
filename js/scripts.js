@@ -28,11 +28,3 @@ let pokemonList = [
       evolutions: ['Zangoose has no evolutions.']},
 ]; 
 
-
-/*
-    {name: '', 
-     type: ['', '', ''], 
-     profile: [ {height: , weight: , abilities:['', ''] }], 
-     evolutions: ['']},
-*/
-   
